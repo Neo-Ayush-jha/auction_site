@@ -18,12 +18,15 @@ This is the backend for the Auction Platform built using **Django** and **MySQL*
 - MySQL
 - Jazzmin (Custom Admin UI)
 
+## 🔗 API Documentation
+
+You can explore and test the full API using the Postman collection below:
+
+👉 [Neo Auction API Docs (Postman)](https://documenter.getpostman.com/view/22737106/2sB2qWG4Qj)
+
 ## 🛠️ Setup Instructions
 
 1. Clone the repository:
    ```bash
    git clone <your-repo-url>
    cd backend
-2. Install all 
-    ```base
-    pip install -r requirements.txt
