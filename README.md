@@ -28,5 +28,5 @@ You can explore and test the full API using the Postman collection below:
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Neo-Ayush-jha/auction_site
    cd backend
